@@ -1,0 +1,15 @@
+/* Start of ccs */
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    font-size: 36px;
+  }
+  
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+  }
